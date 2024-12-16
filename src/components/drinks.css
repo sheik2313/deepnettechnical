@@ -1,0 +1,53 @@
+.menu-content {
+    padding: 50px 120px;
+    color: white;
+    text-align: center;
+    background-color: black;
+ }
+  
+  .menu-content h2 {
+    margin-bottom: 30px;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .menu-box {
+    border: 2px solid #555;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  .menu-items {
+    margin: 20px 0;
+  }
+  
+  .item {
+    /* margin: 20px 0; */
+    margin-right: 50px;
+  }
+  
+  .item h3 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    font-size: 18px;
+    color: white;
+  }
+  
+  .item span {
+    color:white;
+  }
+  
+  .item p {
+    font-size: 14px;
+    margin-top: 5px;
+    color: #aaa;
+    text-align: left;
+  }
+  .flexthecontent{
+    display: flex;
+    padding-left: 50px;
+  }

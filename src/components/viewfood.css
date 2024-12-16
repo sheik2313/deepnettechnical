@@ -1,0 +1,7 @@
+.outer{
+    background-color:burlywood;
+}
+.flexconcept{
+    display: flex;
+    padding-left: 10px;
+}
