@@ -1,0 +1,37 @@
+.hero {
+    text-align: center;
+    background: url("../components/image/preparation-cooking-wooden-background-top-view-free-space-text_187166-51517.avif") no-repeat center center/cover;
+    padding: 100px 20px;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: w;
+}
+
+.hero p {
+    font-size: 16px;
+}
+
+.menu-buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.menu-buttons button.active {
+    background: #007bff;
+    color: white;
+}
+
+.menu-buttons button:hover {
+    background: blue;
+    /* Change color on hover */
+    color: white
+}
+
+;
